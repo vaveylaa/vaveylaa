@@ -5,7 +5,7 @@ Hi there👋, I'm Büşra Özçelik<br><br>👩‍💻 About Me :  I am a newly 
 </div>
   
 
-
+<div align="center">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/busraozcelik00) 
 
@@ -29,5 +29,5 @@ Hi there👋, I'm Büşra Özçelik<br><br>👩‍💻 About Me :  I am a newly 
 [![](https://visitcount.itsvg.in/api?id=vaveylaa&icon=6&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+  </div>
 
