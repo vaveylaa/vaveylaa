@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 Hi there👋, I'm Büşra Özçelik<br><br>👩‍💻 About Me :  I am a newly graduated mechatronics engineer and a web developer with a passion for software.<br><br>🌱 I’m currently learning React.js , Javascript and Web development<br><br>📫How to reach me: busra61453@gmail.com<br>
-<div align="center">
+</div>
   
 
 
@@ -30,4 +30,4 @@ Hi there👋, I'm Büşra Özçelik<br><br>👩‍💻 About Me :  I am a newly 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
-</div>
+
