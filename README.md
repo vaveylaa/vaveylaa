@@ -6,6 +6,7 @@ Hi there👋, I'm Büşra Özçelik<br><br>👩‍💻 About Me :  I am a newly 
   
 
 <div align="center">
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/busraozcelik00) 
 
